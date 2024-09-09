@@ -1,0 +1,14 @@
+# Guia de Instalacion y Uso
+## Instalacion 
+
+1. Verificar  si tu version de Python es superior a la version 10
+2. Clona el repositorio: git clone <https://github.com/TTpapu/Progra-basica-86-Agosto>
+3. Navega al directorio del proyecto: `cd gestor_tareas`
+4. Ejecuta `python gestor.py` para iniciar la aplicación.
+
+
+## Uso
+
+1. Al iniciar la aplicación, verás un menú con opciones.
+2. Puedes agregar tareas con nombre, categoría, etiquetas y una fecha límite opcional.
+3. Usa las opciones del menú para listar o eliminar tareas.
